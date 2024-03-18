@@ -51,7 +51,7 @@
       <ul>
         <li>
           <a href="https://gdsc-kwangwoon.notion.site/7f9a5955fe4849f4b3baa98bad337c41?pvs=4">
-            Flutter flirting
+            Onboarding study
           </a>
         </li>
         <li>
@@ -62,6 +62,11 @@
         <li>
           <a href="https://github.com/orgs/Bermuda-Rectangle/repositories">
             Realworld project
+          </a>
+        </li>
+        <li>
+          <a href="https://github.com/gdsc-kwangwoon/flutter_flirting">
+            Flutter flirting
           </a>
         </li>
       </ul>
